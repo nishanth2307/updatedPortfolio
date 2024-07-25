@@ -17,7 +17,7 @@ const Contact = () => {
                     />
                      <ContactCard
                       url={Github}
-                      text="github-url"
+                      text="https://github.com/nishanth2307/updatedPortfolio.git"
                     />
                 </div>
                 <div style={{flex:1}}>
